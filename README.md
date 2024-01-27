@@ -1,5 +1,5 @@
 
-Este projeto foi criado para demonstrar a qualidade do meu código. No entanto, para respeitar a confidencialidade do cliente, removi as partes onde existiam as regras de negócio.
+Este projeto foi criado para demonstrar a estrutura do meu código. No entanto, para respeitar a confidencialidade do cliente, removi as partes onde existiam as regras de negócio.
 
 As regras de negócio são as regras que definem como o sistema deve funcionar. Elas são específicas para cada cliente e podem incluir informações confidenciais.
 
